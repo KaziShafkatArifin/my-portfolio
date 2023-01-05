@@ -96,6 +96,7 @@ main {
   font-size: 18px;
   line-height: 30px;
   margin-bottom: 30px;
+  text-align: center;
 }
 /* about info container style */
 
@@ -115,3 +116,34 @@ main {
   text-align: center;
   color: #474747;
 }
+
+/* what i do section styles */
+
+.what-do {
+  margin-top: 130px;
+}
+.what-do-container {
+  display: flex;
+  gap: 24px;
+}
+.what-do-single{
+  background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+padding: 30px;
+margin-bottom: 130px;
+}
+.what-do-header {
+  font-weight: 700;
+  font-size: 20px;
+  color: #181818;
+  margin: 30px 0;
+}
+.what-do-para{
+  font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+}
+
+/* resume section style */
+
