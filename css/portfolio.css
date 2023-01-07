@@ -182,3 +182,38 @@ main {
   text-align: center;
   margin: 50px 0 100px;
 }
+
+/* contact section style */
+
+.contact{
+  text-align: left;
+  background: #FFF8F3;
+}
+.contact-container{
+  display: flex;
+  gap: 100px;
+  padding: 130px 230px;
+  
+}
+.contact-icons li{
+  list-style: none;
+  display: inline-block;
+  text-align: left;
+  padding: 30px 20px;
+}
+.contact-full-bg{
+  
+}
+.message input[type="text"], input[type="email"]{
+  width: 100%;
+  height: 30px;
+  padding: 20px;
+  margin-bottom:20px ;
+  border: none;
+}
+.message textarea{
+  width: 100%;
+  border: none;
+  padding: 20px;
+  margin-bottom:20px ;
+}
