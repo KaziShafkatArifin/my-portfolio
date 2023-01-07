@@ -15,6 +15,16 @@
   padding: 19px 35px;
   background-color: #fd6e0a;
 }
+.btn-secondary{
+  height: 64px;
+  border: 1px solid #fd6e0a;
+  border-radius: 5px;
+  color: #fd6e0a;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 19px 35px;
+  margin-left: 20px;
+}
 /* header and navigation styles */
 .header {
   background: #fff8f3;
