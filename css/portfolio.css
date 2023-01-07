@@ -25,6 +25,9 @@
   padding: 19px 35px;
   margin-left: 20px;
 }
+i{
+  margin-right: 15px;
+}
 /* header and navigation styles */
 .header {
   background: #fff8f3;
